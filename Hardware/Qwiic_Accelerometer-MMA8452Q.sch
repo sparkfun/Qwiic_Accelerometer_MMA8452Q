@@ -19293,7 +19293,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="162.56" y="106.68" size="1.778" layer="97">Closed = 0x1C</text>
 <text x="162.56" y="109.22" size="1.778" layer="97">Open (default) = 0x1D</text>
 <text x="170.434" y="11.43" size="2.54" layer="94">N. Seidle</text>
-<text x="237.744" y="7.366" size="2.54" layer="94">v01</text>
+<text x="237.744" y="7.366" size="2.54" layer="94">v10</text>
 <text x="175.26" y="7.62" size="2.54" layer="94">A. England</text>
 <wire x1="0" y1="99.06" x2="248.92" y2="99.06" width="0.1524" layer="97" style="longdash"/>
 <text x="93.98" y="167.64" size="2.54" layer="97">MMA8452Q Accelerometer</text>
