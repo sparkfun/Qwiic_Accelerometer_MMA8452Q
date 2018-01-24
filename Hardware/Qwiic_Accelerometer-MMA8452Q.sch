@@ -19284,7 +19284,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="JP1" library="SparkFun" deviceset="FIDUCIAL" device="UFIDUCIAL"/>
 <part name="JP5" library="SparkFun" deviceset="FIDUCIAL" device="UFIDUCIAL"/>
 <part name="LOGO4" library="SparkFun-Aesthetics" deviceset="REVISION" device=""/>
-<part name="J5" library="SparkFun-Connectors" deviceset="CONN_04" device=""/>
+<part name="J5" library="SparkFun-Connectors" deviceset="CONN_04" device="1X04_NO_SILK"/>
 </parts>
 <sheets>
 <sheet>
@@ -19298,6 +19298,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="0" y1="99.06" x2="248.92" y2="99.06" width="0.1524" layer="97" style="longdash"/>
 <text x="93.98" y="167.64" size="2.54" layer="97">MMA8452Q Accelerometer</text>
 <text x="91.44" y="86.36" size="2.54" layer="97">Qwiic/I2C Connectors</text>
+<text x="142.24" y="154.94" size="1.778" layer="97">I2C Pullup jumper. Disconnect if you 
+are using your own pullup resistors.</text>
 </plain>
 <instances>
 <instance part="GND1" gate="1" x="99.06" y="116.84"/>
@@ -19568,4 +19570,10 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </sheets>
 </schematic>
 </drawing>
+<compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
+</compatibility>
 </eagle>
