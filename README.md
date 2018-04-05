@@ -1,9 +1,9 @@
 Qwiic Accelerometer - MMA8452Q
 ========================================
 
-![Qwiic Accelerometer - MMA8452Q](https://cdn.sparkfun.com/assets/parts/1/2/1/9/5/MMA8452_Qwiic_Breakout_03.jpg)
+[Qwiic Accelerometer - MMA8452Q](https://cdn.sparkfun.com/assets/parts/1/2/7/4/0/14587-SparkFun_Accelerometer_Breakout_-_MMA8452Q__Qwiic_-01.jpg)
 
-[*SPX-14248*](https://www.sparkfun.com/products/14248)
+[*SEN-14587*](https://www.sparkfun.com/products/14587)
 
 The Qwiic Accelerometer makes it extremely easy to get playing with tilt, acceleration, and movement sensing. Plug a [Qwiic Shield](https://www.sparkfun.com/search/results?term=qwiic) onto your platform of choice, plug the Qwiic Accelerometer onto the shield and start sensing! 
 
