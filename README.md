@@ -1,7 +1,7 @@
 Qwiic Accelerometer - MMA8452Q
 ========================================
 
-[Qwiic Accelerometer - MMA8452Q](https://cdn.sparkfun.com/assets/parts/1/2/7/4/0/14587-SparkFun_Accelerometer_Breakout_-_MMA8452Q__Qwiic_-01.jpg)
+![Qwiic Accelerometer - MMA8452Q](https://cdn.sparkfun.com/assets/parts/1/2/7/4/0/14587-SparkFun_Accelerometer_Breakout_-_MMA8452Q__Qwiic_-01.jpg)
 
 [*SEN-14587*](https://www.sparkfun.com/products/14587)
 
