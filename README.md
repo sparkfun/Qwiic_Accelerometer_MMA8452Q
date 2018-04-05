@@ -15,7 +15,8 @@ Documentation
 --------------
 * **Library GitHub Repo**
   * **[Arduino Library](https://github.com/sparkfun/SparkFun_MMA8452Q_Arduino_Library/tree/master)** - Arduino library for MMA8452Q.
-  * **[Photon Library](https://github.com/sparkfun/SparkFun_MMA8452Q_Particle_Library)** - Photon library for MMA8452Q.* **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-accelerometer-mma8452q-hookup-guide)** - Basic hookup guide for the MMA8452Q Breakout Board.
+  * **[Photon Library](https://github.com/sparkfun/SparkFun_MMA8452Q_Particle_Library)** - Photon library for MMA8452Q.*
+**[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-accelerometer-mma8452q-hookup-guide)** - Basic hookup guide for the MMA8452Q Breakout Board.
 * **[Qwiic System](http://www.sparkfun.com/qwiic)** - The Qwiic system enables fast and solderless connection between popular platforms and various sensors and actuators.
 
 Product Versions
