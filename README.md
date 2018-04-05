@@ -11,7 +11,16 @@ The Qwiic Accelerometer - MMA8452Q is a smart low-power, three-axis, MEMS accele
 
 The MMA8452Q has user selectable full scales of ±2g/±4g/±8g with high pass filtered data as well as non filtered data available real-time. The device can be configured to generate inertial wake-up interrupt signals from any combination of the configurable embedded functions allowing the MMA8452Q to monitor events and remain in a low power mode during periods of inactivity.
 
-The [Qwiic system](http://www.sparkfun.com/qwiic) enables fast and solderless connection between popular platforms and various sensors and actuators. You can read more about the Qwiic system [here](http://www.sparkfun.com/qwiic). 
+Documentation
+--------------
+* **[Library](https://github.com/sparkfun/Qwiic_Accelerometer_MMA8452Q)** - Arduino or Photon library for the MMA8452Q Breakout Board.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/qwiic-accelerometer-mma8452q-hookup-guide)** - Basic hookup guide for the MMA8452Q Breakout Board.
+* **[Qwiic System](http://www.sparkfun.com/qwiic)** - The Qwiic system enables fast and solderless connection between popular platforms and various sensors and actuators.
+
+Product Versions
+----------------
+* [SEN-14587](https://www.sparkfun.com/products/14587)
+* [SPX-14248](https://www.sparkfun.com/products/14248)
 
 License Information
 -------------------
